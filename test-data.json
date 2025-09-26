@@ -1,0 +1,47 @@
+{
+  "name": "測試聊天群組",
+  "type": "private_supergroup",
+  "id": 123456789,
+  "messages": [
+    {
+      "id": 1,
+      "type": "message",
+      "date": "2024-01-15T10:30:00",
+      "from": "小明",
+      "from_id": "user1",
+      "text": "大家好，今天天氣真不錯！"
+    },
+    {
+      "id": 2,
+      "type": "message", 
+      "date": "2024-01-15T10:32:15",
+      "from": "小美",
+      "from_id": "user2", 
+      "text": "是啊！適合出去走走。你們有什麼計畫嗎？"
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2024-01-15T10:35:42",
+      "from": "小強",
+      "from_id": "user3",
+      "text": "我想去公園拍照，那裡的櫻花應該開了"
+    },
+    {
+      "id": 4,
+      "type": "message",
+      "date": "2024-01-15T11:00:00",
+      "from": "小明", 
+      "from_id": "user1",
+      "text": "好主意！我也想去看櫻花，幾點出發？"
+    },
+    {
+      "id": 5,
+      "type": "message",
+      "date": "2024-01-15T11:05:30",
+      "from": "小美",
+      "from_id": "user2",
+      "text": "下午兩點怎麼樣？我們在捷運站集合"
+    }
+  ]
+}
